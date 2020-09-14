@@ -3,7 +3,7 @@
  *  4 basic operations (+,-,*,/) and a more accurate encryption and
  *  decryption for one number (based on HElib)
  *
- *  Author: Nova Chan
+ *  Author: Duplantis Chen
  *  Date: Mar 24, 2018
  *  Email: novachanginn@163.com
  *  -------------------------------------------------------------------
