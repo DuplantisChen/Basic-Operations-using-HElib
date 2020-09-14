@@ -5,7 +5,6 @@
  *
  *  Author: Duplantis Chen
  *  Date: Mar 24, 2018
- *  Email: novachanginn@163.com
  *  -------------------------------------------------------------------
  */
 
